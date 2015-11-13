@@ -1,0 +1,27 @@
+{
+  "Unit Tests": {
+    "coverage": {
+      "/Users/jessicag/Personal/poker_face/lib/score_review.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/jessicag/Personal/poker_face/lib/card_deck.rb": [
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1447380343
+  }
+}
